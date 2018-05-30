@@ -39,7 +39,7 @@ frontend-test
 
 | Nome do breakpoint | Largura mínima | Descrição                           |
 |--------------------|----------------|-------------------------------------|
-| Extra Mall         | <574px         | Breakpoint para smartphones pequenos|
+| Extra Mall         | <576px         | Breakpoint para smartphones pequenos|
 | Small              | ≥576px         | Breakpoint para smartphones         |
 | Medium             | ≥768px         | Breakpoint para tablets             |
 | Large              | ≥992px         | Breakpoints para desktops           |
