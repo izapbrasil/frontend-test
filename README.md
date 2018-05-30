@@ -11,10 +11,7 @@ frontend-test
 * Implemente o HTML/HTML5/CSS da tela com base no layout disponível;
 * Para a interação do formulário utilize angularjs, jQuery ou React;
 * Após terminar seu teste submeta um pull request e aguarde o nosso retorno.
-
-* **Importante:** O formulário de cadastro não deve fazer requisições para nenhuma url.
-* **Importante:** Valide os inputs dos formulários.
-
+* O formulário de cadastro não deve fazer requisições para nenhuma url.
 * Utilize qualquer linguagem de preprocessador css ou css puro;
 * Utilizar bibliotecas css como animatecss, compass, bourbon ou outras;
 
