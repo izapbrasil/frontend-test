@@ -1,5 +1,5 @@
-Teste para candidatos à vaga de desenvolvedor Frontend na iZap
-==============================================================
+Teste para candidatos à vaga de desenvolvedor Frontend
+======================================================
 
 > [![Logo iZap](https://assets.izap.com.br/izap.com.br/temas/izap-v5/assets/img/ico-izap.png)](https://izap.com.br/)
 >
