@@ -1,7 +1,9 @@
 Teste para candidatos à vaga de desenvolvedor Frontend na iZap
 ==============================================================
 
-> Estamos deixando o nossos testes público, caso tenha interesse, faça um **_fork_** desse repositório e então submeta um **_pull request_** que, após a nossa análise, você receberá um retorno.  
+> [![Logo iZap](https://assets.izap.com.br/izap.com.br/temas/izap-v5/assets/img/ico-izap.png)](https://izap.com.br/)
+>
+> Estamos deixando os nossos testes público, caso tenha interesse, faça um **_fork_** desse repositório e então submeta um **_pull request_**. Após a nossa análise você receberá um retorno!  
 
 
 Orientações
